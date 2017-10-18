@@ -47,11 +47,13 @@ public class MediaPageController: UIViewController
         imageCounter += 1
         
     }
- //@IBAction func musicPlay() -> Void
- //{
-  //  if(soundOn = true)
-  //  {
+ @IBAction func musicPlay() -> Void
+{
+    var soundOn = false
+   if(soundOn == true)
+  {
         
- //   }
+   }
 }
 
+}
