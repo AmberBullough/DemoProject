@@ -84,7 +84,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Play/Pause"/>
                                 <connections>
-                                    <action selector="musicPlay" destination="Eyf-b6-11z" eventType="touchUpInside" id="ZhW-7t-jol"/>
+                                    <action selector="soundPlay" destination="Eyf-b6-11z" eventType="touchUpInside" id="gA2-5d-fAc"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="awM-Si-VZT">
